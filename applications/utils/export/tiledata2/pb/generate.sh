@@ -1,1 +1,0 @@
-protoc -I=. --python_out=.. tiledata.proto

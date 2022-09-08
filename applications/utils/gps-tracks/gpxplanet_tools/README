@@ -1,5 +1,0 @@
-These tools are for processing planet.gpx, an enormous CSV file
-consisting of point coordinates. Get it at http://planet.osm.org/gps/
-
-NOTE: All scripts were moved to https://github.com/Zverik/gpxplanet-tools
-

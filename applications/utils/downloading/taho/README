@@ -1,9 +1,0 @@
-This script downloads a given set of tiles from t@h and creates calibration
-files for various navigation programs. Further documentation can be found
-at http://wiki.openstreetmap.org/index.php/Oziexplorer
-
-
-This directory includes:
-- Windows binary an source , possibly older version :Taho????.zip
-- perl script for linux andwindows: taho.pl
-- perl script for converting to mif-files: convert_osm2mif

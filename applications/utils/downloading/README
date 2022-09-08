@@ -1,9 +1,0 @@
-Software that downloads tiles in given areas
-
-JTileDownloader - Java application to download and update tiles
-maps4glopus     - Shell / perl scripts that use taho to create background maps
-                  for Glopus (http://www.glopus.de)
-taho            - Fetches a given set of tiles and creates calibration files
-                  for Glopus, OziExplorer and various other programs
-tiles_by_bbox   - Fetches tiles in a given bounding box
-

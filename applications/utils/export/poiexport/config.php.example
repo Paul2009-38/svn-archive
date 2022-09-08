@@ -1,7 +1,0 @@
-<?php
-	$config['Database']['servername'] = 'localhost';
-	$config['Database']['port'] = 5432;
-	$config['Database']['dbname'] = '';
-	$config['Database']['username'] = '';
-	$config['Database']['password'] = '';
-?>

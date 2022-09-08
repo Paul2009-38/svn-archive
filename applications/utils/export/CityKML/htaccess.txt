@@ -1,3 +1,0 @@
-# This is an .htaccess file to make KMZ files open in google earth 
-# Copy to any wesbserver directory that's hosting the KMZ's
-AddType application/vnd.google-earth.kmz kmz
