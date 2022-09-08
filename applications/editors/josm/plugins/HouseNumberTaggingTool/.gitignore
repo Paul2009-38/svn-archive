@@ -1,9 +1,0 @@
-/build
-/bin
-/checkstyle-josm-HouseNumberTaggingTool.xml
-/REVISION.XML
-/findbugs-josm-HouseNumberTaggingTool.xml
-/spotbugs-josm-HouseNumberTaggingTool.xml
-/javadoc
-/.idea
-/JOSM-HouseNumberTaggingTool.iml
