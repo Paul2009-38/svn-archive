@@ -1,9 +1,0 @@
-syntax: glob
-\#*\#
-*~
-*.log
-.svn
-.libs
-*.la
-*.lo
-*.slo

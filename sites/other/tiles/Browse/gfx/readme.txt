@@ -1,6 +1,0 @@
-C        - corner (blank)
-N,S      - top/bottom (with arrows)
-NS       - top/bottom (blank)
-E,W      - edges (with arrows)
-EW       - edges (blank)
-in, out  - corner (with + and - symbols)
