@@ -1,3 +1,0 @@
-city: *
-area: primary, motorway, river, coast, railway
-
